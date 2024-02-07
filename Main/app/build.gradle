@@ -16,7 +16,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.webviewgold.myappname"
+        applicationId "com.techhunk.dejavufm"
         minSdkVersion 22
         targetSdkVersion 33
         versionCode 1

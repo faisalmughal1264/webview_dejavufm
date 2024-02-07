@@ -1,34 +1,78 @@
 {
   "project_info": {
-    "project_number": "xxxxxxxxxxx",
-    "project_id": "xxxxxxxxxxx",
-    "storage_bucket": "xxxxxxxxxxx"
+    "project_number": "695570588312",
+    "firebase_url": "https://dejavufm-83a86.firebaseio.com",
+    "project_id": "dejavufm-83a86",
+    "storage_bucket": "dejavufm-83a86.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "xxxxxxxxxxx",
+        "mobilesdk_app_id": "1:695570588312:android:5cdee2fea429c3eb8066ed",
         "android_client_info": {
-          "package_name": "com.webviewgold.myappname"
+          "package_name": "com.ibitway.dejavufmpro"
         }
       },
       "oauth_client": [
         {
-          "client_id": "xxxxxxxxxxx",
+          "client_id": "695570588312-romh3ft7ud9vc6omnqu57m5cfertstq6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "xxxxxxxxxxx"
+          "current_key": "AIzaSyCg_0wMt2tJAKQpb9DZNnAilCueLpIwtZ4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "xxxxxxxxxxx",
+              "client_id": "695570588312-romh3ft7ud9vc6omnqu57m5cfertstq6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "695570588312-5jurljkupb5tv3mandbl78bsrps87i76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibitway.dejavufm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695570588312:android:e20f37bbc6dc1ee98066ed",
+        "android_client_info": {
+          "package_name": "com.techhunk.dejavufm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695570588312-romh3ft7ud9vc6omnqu57m5cfertstq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_0wMt2tJAKQpb9DZNnAilCueLpIwtZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695570588312-romh3ft7ud9vc6omnqu57m5cfertstq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "695570588312-5jurljkupb5tv3mandbl78bsrps87i76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibitway.dejavufm"
+              }
             }
           ]
         }
